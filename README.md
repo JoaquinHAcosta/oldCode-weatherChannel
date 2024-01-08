@@ -15,7 +15,7 @@ Realizado para el curso de Introducción a la Programación de 'Plataforma5' en 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/JoaquinHAcosta/oldCode-weatherChannel/blob/main/project-weather.png)
 
 
 ## Demo
